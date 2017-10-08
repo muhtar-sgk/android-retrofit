@@ -7,8 +7,26 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="a3a80bf63a09221a5628d4985b7b1fa14fa4cff8">
+        sha1="3d60fb3fd24eae00dad2e07b6ad1114f282e5e87">
         <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f490e8c41bf6fe1d4ef6db9fb6272585d2e08662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_a7bd95b008bdcaf199091ac745fadf80ac9036ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_9ab23e68a8a8be176a5616bd3bd270d1ba8c7919/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +36,33 @@
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d19cf61ac6212ff3927de7a903627f9b7f7ecd38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_99bf84d346127e40c1a87d15238c38ca6841fe05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_456ec09bfd006a8d4ba015fd224c91ec805fe82d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_312120cd0c0b4bb80f676020ca3433edb2524dd3/classes.dex" />
     </item>
 
 </items>
