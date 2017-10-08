@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3a80bf63a09221a5628d4985b7b1fa14fa4cff8">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f490e8c41bf6fe1d4ef6db9fb6272585d2e08662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/muhtar/Public/AndroidProjects/android-retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d19cf61ac6212ff3927de7a903627f9b7f7ecd38/classes.dex" />
+    </item>
+
+</items>

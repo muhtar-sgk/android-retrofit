@@ -1,7 +1,9 @@
-package org.saungit.muhtar.androidretrofit;
+package org.saungit.muhtar.androidretrofit.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import org.saungit.muhtar.androidretrofit.R;
 
 public class MainActivity extends AppCompatActivity {
 
